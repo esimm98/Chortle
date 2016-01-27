@@ -1,0 +1,12 @@
+// This line should be printed out
+This shouldn't
+/ And neither should this
+// But this one should too
+*/ Print this
+/* Starting here
+This
+should
+all
+print
+*/ Ending here
+and not this
